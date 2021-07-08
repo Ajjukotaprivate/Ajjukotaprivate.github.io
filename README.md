@@ -14,11 +14,15 @@ Ex:
 
 UnSolved Sudoku
 
-    ![Screenshot from 2021-07-09 00-10-30](https://user-images.githubusercontent.com/83936475/124976363-c6a88000-e04c-11eb-8e16-3428c2e671df.png)
+![Screenshot from 2021-07-09 00-10-30](https://user-images.githubusercontent.com/83936475/124976659-3454ac00-e04d-11eb-9b99-3a22e71da754.png)
+
+
+  
     
 Solved Sudoku 
 
-    ![Screenshot from 2021-07-09 00-10-33](https://user-images.githubusercontent.com/83936475/124976440-e93a9900-e04c-11eb-8061-817b89c56665.png)
+![Screenshot from 2021-07-09 00-10-33](https://user-images.githubusercontent.com/83936475/124976681-3a4a8d00-e04d-11eb-9c98-0a5543017663.png)
+
 
 
     
